@@ -1,12 +1,15 @@
-## Hi there 👋
+<img src="https://github.com/UnicoreProject/.github/blob/main/profile/unicoreproject.png?raw=true" />
 
-<!--
+[Документация](https://unicore.uno/docs/) | [Покупка](https://unicore.uno/buy/)
 
-**Here are some ideas to get you started:**
+> **UnicoreCMS** - Headless CMS для модовых проектов Minecraft. Современные технологии и профессиональный подход, невероятная производительность и скорость. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Преимущества
+- ***Современная***. Построен по последним технологиям. 
+- ***Надёжная***. Проверена в производственной среде. 
+- ***Быстрая***. Каждый компонент оптимизирован и обработает сверх-много запросов за сверх-мало времени. 
+- ***Безопасная***. На ряду с актуальными версиями пакетов и современным концептом работы — неуязвима. 
+- ***Не зависима от БД***. Поддерживает MySQL, MariaDB, MongoDB, Postgres, CockroachDB, SQLite, Microsoft SQL Server, Oracle или SAP Hana.
+- ***Простая установка***. Docker или Manual? В обеих случаях установка довольно проста и описана [тут](http://localhost:3000/docs/install).
+- ***Легко интегрируема***. Свои решения для простой интеграции с лаунчером и сервером. 
+- ***OpenSource***. Нам нечего скрывать и вы можете это увидеть
