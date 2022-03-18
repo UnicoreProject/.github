@@ -13,3 +13,5 @@
 - ***Простая установка***. Docker или Manual? В обеих случаях установка довольно проста и описана [тут](http://localhost:3000/docs/install).
 - ***Легко интегрируема***. Свои решения для простой интеграции с лаунчером и сервером. 
 - ***OpenSource***. Нам нечего скрывать и вы можете это увидеть
+
+<img src="https://github.com/UnicoreProject/.github/blob/main/profile/repos.jpg?raw=true" />
