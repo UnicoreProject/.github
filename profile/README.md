@@ -6,6 +6,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript"/>&nbsp;
   <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=Nuxt.js"/>&nbsp;
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin&logoColor=FFA518"/>&nbsp;
+  <a href="https://t.me/unicore_project"><img alt="Telegram" src="https://img.shields.io/endpoint?style=social&url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/unicore_project"/></a>&nbsp;
 </p>
   
 <p>
