@@ -1,6 +1,6 @@
 <img src="https://github.com/UnicoreProject/.github/blob/main/profile/unicoreproject.png?raw=true" />
 
-[Документация](https://unicore.uno/docs/) | [Покупка](https://unicore.uno/buy/)
+[Документация](https://unicorecms.ru/docs/) | [Покупка](https://unicorecms.ru/buy/)
 
 > **UnicoreCMS** - Headless CMS для модовых проектов Minecraft. Современные технологии и профессиональный подход, невероятная производительность и скорость. 
 
@@ -10,6 +10,6 @@
 - ***Быстрая***. Каждый компонент оптимизирован и обработает сверх-много запросов за сверх-мало времени. 
 - ***Безопасная***. На ряду с актуальными версиями пакетов и современным концептом работы — неуязвима. 
 - ***Не зависима от БД***. Поддерживает MySQL, MariaDB, MongoDB, Postgres, CockroachDB, SQLite, Microsoft SQL Server, Oracle или SAP Hana.
-- ***Простая установка***. Docker или Manual? В обеих случаях установка довольно проста и описана [тут](http://localhost:3000/docs/install).
+- ***Простая установка***. Docker или Manual? В обеих случаях установка довольно проста и описана [тут](unicorecms.ru/docs/install).
 - ***Легко интегрируема***. Свои решения для простой интеграции с лаунчером и сервером. 
 - ***OpenSource***. Нам нечего скрывать и вы можете это увидеть
