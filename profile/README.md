@@ -17,6 +17,8 @@
 
 > **UnicoreCMS** - Headless CMS для модовых проектов Minecraft. Современные технологии и профессиональный подход, невероятная производительность и скорость. 
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DignnahcC0w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Преимущества
 - ***Современная***. Построен по последним технологиям. 
 - ***Надёжная***. Проверена в производственной среде. 
